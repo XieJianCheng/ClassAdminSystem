@@ -1,5 +1,5 @@
 # 班级管理系统
-# ClassAdminSystem
+ClassAdminSystem
 
 代码开放
 应用内的表情包不得转发
